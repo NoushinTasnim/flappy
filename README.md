@@ -1,4 +1,5 @@
-https://github.com/NoushinTasnim/flappy/blob/main/Screenshot%202025-05-07%20112055.png
+<img src="https://github.com/NoushinTasnim/flappy/blob/main/Screenshot%202025-05-07%20112055.png" style="width: 1080px;" />
+
 # 🐦 Flappy Bird (Unity)
 
 A simple 2D clone of the popular game **Flappy Bird**, developed in Unity as a personal learning project.  
